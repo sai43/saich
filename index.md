@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## SAI CH - Sr. Fullstack developer
 
-You can use the [editor on GitHub](https://github.com/sai43/saich.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sai43/saich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Full Stack Developer with 5+ years of experience with working on multiple popular technologies
+- Strong Knowledge of Ruby on Rails(2.x...5.x), Angular (2.x...6.x), React.Js, Node.Js, Python, MongoDB
+- Worked on ADA & HIPPA Compliances
+- Having the ability to write unit, functional and end-to-end tests in RSpec, Cucumber, Jasmine 
+- Good knowledge to write high-quality code that communicates with upstream backend services
+- Integrated payment gateways using Shift4, Stripe and JCC
+- Good practices on version control like Github and Bitbucket, GitLab
+- Implemented UI design using HTML5, CSS3, Bootstrap, Material UI
+- Provided multi-language support using i18n library
+- Solved problems using a combination of Ruby on Rails, Angular, JavaScript and JQUERY
+- Created, Upgrading and Maintaining the JavaScript libraries and widgets so that the data is managed in the same way regardless of when the form was developed
+- Experience in agile and Scrum methodologies
+- Insights into DOM, Events, Call Backs, Security, Browser Injections,
+REST, JSON, XML, AJAX, SOAP, SSL, Cookies, Web Storage, HTTP Methods, HTTP flushing
+- Cross Browser Testing (FireFox/Chrome/Safari/Edge)
+- Excellent understanding of performance and optimization techniques
+- Having good knowledge on popular frontend libraries like RxJS, Redux, Lodash, moment 
+- Having good knowledge on Ruby gems like Rails, Spree, Rspec, Devise etc.., 
